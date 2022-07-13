@@ -167,10 +167,29 @@ body{
     padding: 20px 0 20px 0;
 }
 .donate-items p {
-    padding-bottom: 15px;
+    padding-bottom: 20px;
     color: #8b8585;
     line-height: 1.3;
 }
 .donate-items a {
-    padding: 30px 0 10px 0;
+    padding: 50px 0px 26px;
+    color: red;
+    font-weight: 600;
+}
+/* footer  */
+footer {
+    text-align: center;
+    margin: 40px 0 0 0;
+    background: #000;
+}
+footer h4 {
+    color: red;
+    font-style: italic;
+    font-size: 20px;
+    padding: 15px 0 0 0;
+}
+footer p {
+    color: #fff;
+    font-size: 12px;
+    padding: 10px 0;
 }
