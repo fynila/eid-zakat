@@ -154,11 +154,12 @@ body{
     padding: 20px;
 }
 .donate-items {
-    padding: 5px 15px 15px 15px;
+    padding: 5px 15px 25px 15px;
     margin: 20px;
     border-radius: 15px;
     border: 1px solid #dfcfcf;
-    transition: 0.3s;
+    box-shadow: 10px 10px 20px gray;
+;
 }
 .donate-items img {
     width: 100%;
